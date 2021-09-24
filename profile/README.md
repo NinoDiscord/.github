@@ -1,6 +1,5 @@
 <div align='center'>
   <h2>Nino - Moderation Discord Bot</h2>
-  <hr />
   <h4>Hello there friend! Welcome to the organization all towards <a href='https://nino.sh'>Nino</a>'s development~</h4>
   <hr />
     <div align='center'>

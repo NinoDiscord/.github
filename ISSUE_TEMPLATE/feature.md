@@ -3,7 +3,7 @@ name: Feature Request
 about: Suggest an idea on the project
 title: ''
 labels: ''
-assignees: dondish, auguwu
+assignees: auguwu
 
 ---
 

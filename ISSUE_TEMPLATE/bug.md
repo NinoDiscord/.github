@@ -3,7 +3,7 @@ name: Bug Report
 about: Create a bug report to help improve the code quality
 title: ''
 labels: bug
-assignees: dondish, auguwu
+assignees: auguwu
 
 ---
 

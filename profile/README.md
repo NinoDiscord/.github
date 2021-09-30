@@ -1,10 +1,10 @@
 <div align='center'>
   <h2>Nino - Moderation Discord Bot</h2>
   <h4>Hello there friend! Welcome to the organization all towards <a href='https://nino.sh'>Nino</a>'s development~</h4>
-  <hr />
-    <div align='center'>
-    <a href="https://nino.sh"><strong>Website</strong></a>  •  <a href="https://discord.gg/ATmjFH9kMH"><strong>Discord</strong></a>   •   <a href="https://github.com/NinoDiscord/Nino/discussions"><strong>Discussions</strong></a>
+  <div align='center'>
+    <a href="https://nino.sh"><strong>Website</strong></a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://discord.gg/ATmjFH9kMH"><strong>Discord</strong></a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://github.com/NinoDiscord/Nino/discussions"><strong>Discussions</strong></a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://youtrack.floofy.dev/projects/9afed18c-eed6-4f7b-bfa7-49d9ea3f5e14">Issue Tracker</a>
   </div>
+  <hr />
 </div>
 
 # Repositories

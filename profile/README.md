@@ -10,6 +10,5 @@
 # Repositories
 > Here are some notable repositories you should definitely check out + star if you wish! <3
 
-- [**slash-commands**](https://github.com/NinoDiscord/slash-commands) - Microservice to run slash commands with Nino!
 - [**Nino**](https://github.com/NinoDiscord/Nino) - Main bot repository
 - [**Akai**](https://github.com/NinoDiscord/Akai) - Frontend for Nino, made with React + Next.js (with TailwindCSS)
